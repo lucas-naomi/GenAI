@@ -15,3 +15,9 @@ The process might be automatized by using a machine to prepopulate the data, but
 ## Types of Annotation in Machine Learning
 
 ## Considering the following questions:
+- Who defines responsible use of generative AI, especially as cultural norms evolve and social engineering approaches vary across geographies? Who ensures compliance? What are the consequences for irresponsible use? 
+- In the event something goes wrong, how can individuals take action?
+- How do users give and remove consent (opt in or opt out)? What can be learned from the privacy debate?
+- Will using generative AI help or hurt trust in your organization — and institutions overall?
+- How can we ensure that content creators and owners keep control of their IP and are compensated fairly? What should new economic models look like? 
+- Who will ensure proper functioning throughout the entire life cycle, and how will they do so? Do boards need an AI ethics lead, for example?
