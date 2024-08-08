@@ -30,3 +30,6 @@ The process might be automatized by using a machine to prepopulate the data, but
 - Cybersecurity and fraud. Enterprises must prepare for malicious actors’ use of generative AI systems for cyber and fraud attacks, such as those that use deep fakes for social engineering of personnel, and ensure mitigating controls are put in place. Confer with your cyber-insurance provider to verify the degree to which your existing policy covers AI-related breaches.
 - Sustainability. Generative AI uses significant amounts of electricity. Choose vendors that reduce power consumption and leverage high-quality renewable energy to mitigate the impact on your sustainability goals.
 - 'Hallucinations' are outputs that are nonsensical or inaccurate but seem plausible. For instance, a lawyer once used a generative AI tool for research, only to find that it had produced entirely fictional cases. To mitigate such issues, developers implement guardrails—preventive measures that restrict the model's output. Continuous evaluation and tuning are essential to minimize inaccuracies.
+
+## Ethical Implementation 
+for ethical implementation, the data used should be accurate, relevant, and free from biases, hate speech, and other toxic elements. Additionally, models should be trained on legally accessed, high-quality data.
