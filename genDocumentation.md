@@ -19,7 +19,7 @@ The process might be automatized by using a machine to prepopulate the data, but
 
 2.	Image Annotation – Image annotation is to make object recognizable through AI and ML models. It is the process of adding pre-determined labels to images to guide machines in identifying or blocking images. It gives the computer, vision model information to be able to decipher what is shown on the screen. Depending on the functionality of the machine, the number of labels fed to it can vary nonetheless, the annotations must be accurate to serve as a reliable basis for learning. Here are the different types of image annotation: Bounding boxes, Line annotation, 3D cuboids, Landmark annotation, Image transcription.
 
-        *Natural language processing (NLP) solutions such as chat bots, automatic speech recognition, and sentiment analysis programs would not be possible without text annotation. To train NLP algorithms, massive datasets of annotated text are required.*
+*Natural language processing (NLP) solutions such as chat bots, automatic speech recognition, and sentiment analysis programs would not be possible without text annotation. To train NLP algorithms, massive datasets of annotated text are required.*
       
 There are several types of AI models, but the major ones are:
 - **Supervised Learning Models:** These models learn from labeled data, inferring a function from a  given input to the output.
@@ -58,5 +58,5 @@ Foundation models are created by training deep learning algorithms on massive vo
 ## Ethical Implementation 
 for ethical implementation, the data used should be accurate, relevant, and free from biases, hate speech, and other toxic elements. Additionally, models should be trained on legally accessed, high-quality data.
 
-## conclusion
+## Conclusion
 In conclusion, installing Git involves downloading the appropriate version for your operating system, running the installer, and configuring your environment to work with Git. The process is straightforward and well-documented, making it accessible even for beginners. By following the installation steps, you'll set up a powerful version control system that will help you manage your code efficiently and collaborate effectively on projects
